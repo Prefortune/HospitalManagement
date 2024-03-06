@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Hospital Management",
+    'name': "Clinic & Hospital Management",
     'version': "15.0.1.0.0",
-    'summary': "Hospital Management with patient, appointment, medicine info",
-    'price': "49.0",
-    'currency': "USD", 
-    'description': "Hospital Management",
+    'summary': "Clinic & Hospital Management with patient, appointment, medicine info",
+    'description': "Clinic & Hospital Management",
     'author': "Prefortune Softweb Solution",
     'website': "https://prefortune.com/",
 
